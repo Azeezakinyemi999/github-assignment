@@ -23,7 +23,7 @@ People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
-   |   | akinyemi.az        |   |     
+   |Akinyemi| Azeez   | akinyemi.az |  [azeezakinyemi999]        |   [azeezakinyemi999]               
    |   | biney.j        |   |     
    |   | davis.li        |   |     
    |   | hartley.me        |   |     
